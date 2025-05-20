@@ -1,5 +1,5 @@
 # Quem sou eu?
 
-PERFIL PESSOAL
+Neste repossitorio você encontrará informações pessoais sobre mim como meu curriculo, habilidades e outros hobbies!!
 
 
